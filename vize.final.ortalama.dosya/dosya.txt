@@ -1,0 +1,10 @@
+1 nolu ogrencinin vize notu : 80,final notu : 90, ortalaması: 85
+85 üzerinden 85 alarak geçti.
+2 nolu ogrencinin vize notu : 90,final notu : 90, ortalaması: 90
+85 üzerinden 90 alarak geçti.
+3 nolu ogrencinin vize notu : 90,final notu : 90, ortalaması: 90
+85 üzerinden 90 alarak geçti.
+4 nolu ogrencinin vize notu : 90,final notu : 90, ortalaması: 90
+85 üzerinden 90 alarak geçti.
+5 nolu ogrencinin vize notu : 90,final notu : 90, ortalaması: 90
+85 üzerinden 90 alarak geçti.
